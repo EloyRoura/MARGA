@@ -2,7 +2,7 @@
 
 ## About: 
 
-MARGA (Multispectral Adaptive Region Growing Algorithm) is a skull stripping algorithm that uses the complementary information provided by conventional MRI such as T1-weighted and T2-weighted to perform the brain segmentation in axial views and low quality images. The seed regions are spread using a 2D RG algorithm which behaves differently in specific zones of the brain, allowing to deal with the fact that middle MRI slices have better image contrast between the brain and non-brain regions than superior and inferior brain slices where the contrast is smaller.
+**MARGA** (Multispectral Adaptive Region Growing Algorithm) is a skull stripping algorithm that uses the complementary information provided by conventional MRI such as T1-weighted and T2-weighted to perform the brain segmentation in axial views and low quality images. The seed regions are spread using a 2D RG algorithm which behaves differently in specific zones of the brain, allowing to deal with the fact that middle MRI slices have better image contrast between the brain and non-brain regions than superior and inferior brain slices where the contrast is smaller.
 
 Please browse the SALEM webpage for more information (http://eia.udg.edu/salem/margaToolbox).
 
